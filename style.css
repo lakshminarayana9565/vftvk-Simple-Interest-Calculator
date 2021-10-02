@@ -1,0 +1,20 @@
+body {
+background-color:gray;
+font-family:arial narrow;
+color:white;}
+h1{
+color:grey;
+font-family:arial black;
+}
+.maindiv {
+background-color:tan;
+color:black;
+width:500px;
+margin: auto;
+padding:100px;
+border-radius:50px;
+align:center;
+}
+table {
+margin-left:100px;
+}
